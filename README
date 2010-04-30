@@ -1,0 +1,11 @@
+MarkTracker
+
+MarkTracker is a mark tracking program that i made when i noticed that myself and my friends often used excel to calculate what percentage we need ont he exam to get a 12gpa in the course.  
+A 12 gpa is the equivlarent of 90-100% at McMaster University. however, since the excel sheet had to be tailored for each class, sometimes the work to set it up seemed like a waste of time.
+I wanted an automatic system that would calculate the percentages, allow for bell-curves, as well as keep track of marks on assignments and the such.
+As a result, MarkTracker was born. 
+If you attended the CUSEC software Engineering Conference in Montreal in 2010, you may have seen me present it during Demo Camp.
+Anyway, i finally got around to switching from an svn repository to the social github, in an attempt to open the software up to others to extend MarkTracker to their needs, such as implement different marking scales.
+
+I will try to have the source up asap.
+-sakachi99-
